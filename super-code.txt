@@ -1,5 +1,5 @@
 int main()
 {
-	int x, y = 1, sum
+	int x=10, y = 1, sum;
 	sum = x + y;
 }
